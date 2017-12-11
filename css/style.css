@@ -27,8 +27,20 @@ body {
 }
 
 .main-header {
-	margin: 80px 0;
+	margin: 70px 0;
 	text-align: center;
+}
+
+.btn {
+	background-color: var(--color-4);
+	border-radius: 5px;
+	color: var(--color-5);
+	display: block;
+	margin: 0 auto 40px;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	width: 100px;
 }
 
 .main-form {
